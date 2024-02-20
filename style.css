@@ -7,6 +7,10 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+
+body{
+    background: #f6e5e4; 
+}
 html{
     scroll-behavior: smooth;
 }
@@ -120,7 +124,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: #5a082d;
+    color: #ca8f8f;
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
