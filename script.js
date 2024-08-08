@@ -74,7 +74,7 @@ $(document).ready(function(){
 
     document.getElementById('resume-link-1').addEventListener('click', function() {
         window.open(
-          "https://drive.google.com/file/d/1KG0FERNtU86jvLXDcaoRmXz6T2SitgCR/view?usp=sharing"
+          "https://drive.google.com/file/d/1tT0j2NGcLunEsFzLcJHawyul27cb5eGz/view?usp=sharing"
         );
       });
     
@@ -82,7 +82,7 @@ $(document).ready(function(){
       
       document.getElementById('resume-button-2').addEventListener('click', function() {
         window.open(
-          "https://drive.google.com/file/d/1KG0FERNtU86jvLXDcaoRmXz6T2SitgCR/view?usp=sharing"
+          "https://drive.google.com/file/d/1tT0j2NGcLunEsFzLcJHawyul27cb5eGz/view?usp=sharing"
         );
       });
    
