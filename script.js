@@ -74,17 +74,13 @@ $(document).ready(function(){
 
     document.getElementById('resume-link-1').addEventListener('click', function() {
         window.open(
-          "https://drive.google.com/file/d/1OTujPqXg1tTgIm5EO6vaL83zRgXqdjTS/view"
+          "https://drive.google.com/file/d/1iPoexCIjJHwl0u4N2vKjdlvfd5tGXVmq/view"
         );
       });
     
-
-      
       document.getElementById('resume-button-2').addEventListener('click', function() {
         window.open(
-          "https://drive.google.com/file/d/1OTujPqXg1tTgIm5EO6vaL83zRgXqdjTS/view"
+          "https://drive.google.com/file/d/1iPoexCIjJHwl0u4N2vKjdlvfd5tGXVmq/view"
         );
       });
-   
-
 });
